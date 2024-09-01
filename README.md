@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, bem-vindos ao meu perfil no Github 👦
 
-<!--
-**brunofreitas07/brunofreitas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruno Freitas
 
-Here are some ideas to get you started:
+- Sou PEC de Tecnologia Educacional - Plataformas Educacionais
+- Estou aprendendo programação na plataforma [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+bruno.freitas01@educacao.sp.gov.br
+
+IG @brunofreitas07
+
+![](https://github.com/user-attachments/assets/466716d4-f12f-4f9f-8a25-74a2a222bf4a) 
+
