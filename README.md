@@ -10,5 +10,5 @@ bruno.freitas01@educacao.sp.gov.br
 
 IG @brunofreitas07
 
-![](https://github.com/user-attachments/assets/466716d4-f12f-4f9f-8a25-74a2a222bf4a) 
+![](https://media1.tenor.com/m/7LMaSfhq9TIAAAAC/flying-omw.gif) 
 
