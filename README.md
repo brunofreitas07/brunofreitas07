@@ -5,7 +5,7 @@ Meu nome é Bruno Freitas
 - Sou PEC de Tecnologia Educacional - Plataformas Educacionais
 - Estou aprendendo programação na plataforma [Alura](https://www.alura.com.br)
 
-### Você pode entrar em contato comigo 📫
+## Você pode entrar em contato comigo 📫
 bruno.freitas01@educacao.sp.gov.br
 
 IG @brunofreitas07
